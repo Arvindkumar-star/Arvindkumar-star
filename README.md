@@ -2,153 +2,91 @@
 
 # Hi, I'm Arvind Kumar 👋
 
-### Full-Stack Developer • AI/ML Builder
+### **Full-Stack Developer & AI/ML Builder**
+*Building AI-powered tools that solve real, everyday problems — from resumes to interviews to academics.*
 
-Building AI-powered tools that solve real, everyday problems — from resumes to interviews to academics.
-
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white)](#)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-[![LeetCode](https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/wU5eqD8yGe/)
-[![GeeksforGeeks](https://img.shields.io/badge/GFG-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/shivanticm2)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/arvind-kumar)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](#)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Arvindkumar-star)
 
 </div>
 
 ---
 
-> ## 🧠 About Me
->
-> I'm Arvind Kumar, a full-stack developer and AI/ML builder who likes turning ideas into things people can actually use — resumes that get read, forms that adapt as you fill them, interview prep you can run before it matters.
->
-> Right now I'm deep into **large language models**, **agentic AI** (building and automating workflows with n8n, Make.com, and Automation Anywhere), and the **DevOps side of shipping real software** — Docker, Kubernetes, AWS, and CI/CD pipelines. I'm not just building AI demos for the sake of it; I want the things I ship to actually run end to end, in production.
->
-> I already work comfortably across React, Vite, Node.js, Express, MongoDB, and Git/GitHub — and I'm actively expanding that into Gen AI and cloud-native deployment. Most of my projects start the same way: notice something tedious, then build an AI-assisted way to skip the tedious part.
+### 🧠 About Me
+
+I am a **Full-Stack Developer** and **AI/ML Builder** who loves turning ideas into practical, high-impact products — software that users actually rely on, from ATS-friendly resumes that get read to real-time interview prep systems.
+
+Currently, I am deep into **Large Language Models (LLMs)**, **Agentic AI Architecture**, and automating complex workflows using tools like **n8n** and **Make.com**. Beyond building AI demos, my core focus is shipping production-ready systems backed by robust backend services and cloud-native DevOps pipelines (Docker, Kubernetes, AWS, CI/CD).
+
+I work across **React, Vite, Node.js, Express, MongoDB, and C/C++**, while continuously expanding into cloud-native deployments and scalable AI architectures.
 
 ---
 
-> ## 🚀 Featured Projects
->
-> ### 📄 [AI-Powered Resume Builder Platform](https://github.com/Arvindkumar-star/AI-POWERED-RESUME-BUILDER-PLATFORM)
-> *Four AI agents, one job — a resume that actually gets past the filter.*
->
-> A multi-agent system where specialized AI agents collaborate to write, optimize, and score resumes in real time, backed by a 10-metric ATS analysis engine, multiple templates, and live preview.
->
-> `React` · `Vite` · `Node.js` · `Express` · `MongoDB` · `Gemini AI`
-> 🔗 [Live demo](https://ai-powered-resume-builder-platform-z2ie.onrender.com)
->
-> ---
->
-> ### ❓ [AI Doubt Solver](https://github.com/Arvindkumar-star/AI_DOUBT_SOLVER)
-> *Ask anything — answers grounded in retrieved context, not guesses.*
->
-> A real-time Q&A assistant built on a RAG pipeline: relevant context is retrieved via MongoDB Atlas Vector Search first, then passed to Gemini to generate accurate, grounded answers.
->
-> `React` · `Node.js` · `Express` · `MongoDB` · `Gemini AI` · `RAG`
->
-> ---
->
-> ### 📝 [AI-Powered Form Generator](https://github.com/Arvindkumar-star/AI_POWERED_FORM_GENERATOR)
-> *Describe the form. Get conditional logic and analytics for free.*
->
-> Turns a plain-language description into a fully functional form — complete with conditional show/hide logic between fields and a full response analytics dashboard with charts, not just raw data.
->
-> `React` · `Vite` · `Node.js` · `Express` · `MongoDB` · `Groq (Llama)`
-> 🔗 [Live demo](https://ai-powered-form-generator-1.onrender.com)
->
-> ---
->
-> ### 🎤 [AI Mock Interview Platform](https://github.com/Arvindkumar-star/AI_MOCK_INTERVIEW_PLATFORM)
-> *Practice the interview before it counts.*
->
-> Simulates real interview scenarios and gives structured performance feedback to help candidates identify gaps before the real thing.
->
-> ---
->
-> ### 🎓 [AI Personalized Academic Optimizer](https://github.com/Arvindkumar-star/AI_PERSONALIZED_ACADEMIC_OPTIMIZER)
-> *Not a chatbot — a decision-support system.*
->
-> Computes objective academic metrics from structured student data, then layers LLM reasoning on top for genuinely personalized guidance.
->
-> ---
->
-> ### 🖼️ [AI-Powered Thumbnail Generator](https://github.com/Arvindkumar-star/AI_POWERED_THUMBNAIL_GENERATOR)
-> *Polished thumbnails, under a minute.*
->
-> Generates ready-to-use thumbnails from a simple prompt using AI.
+### 🚀 Featured Projects
+
+#### 📄 **AI-Powered Resume Builder Platform**
+> *Four AI agents, one job — a resume that actually gets past the ATS filters.*
+
+A multi-agent system where specialized AI agents collaborate to write, optimize, and score resumes in real-time, backed by a 10-metric ATS analysis engine, multiple templates, and live rendering.
+`React` `Vite` `Node.js` `Express` `MongoDB` `Gemini AI` • [Live Demo](#) • [Repository](#)
+
+#### ❓ **AI Doubt Solver**
+> *Ask anything — accurate answers grounded in vector search context.*
+
+A real-time Q&A assistant built on a RAG (Retrieval-Augmented Generation) pipeline. Relevant content is retrieved via **MongoDB Atlas Vector Search** and processed by **Gemini AI** to produce precise, grounded responses.
+`React` `Node.js` `Express` `MongoDB` `Gemini AI` `RAG` • [Repository](#)
+
+#### 📝 **AI-Powered Form Generator**
+> *Describe the form; receive conditional logic and real-time analytics.*
+
+Transforms plain-language prompts into fully functional dynamic forms — complete with conditional show/hide logic between fields and a response analytics dashboard.
+`React` `Vite` `Node.js` `Express` `MongoDB` • [Live Demo](#) • [Repository](#)
+
+#### 🎙️ **AI Mock Interview Platform**
+> *Simulate high-stakes interviews before they count.*
+
+Simulates realistic interview scenarios, analyzes candidate responses, and provides structured feedback on technical depth and communication to fix prep gaps.
+`React` `Node.js` `LLMs` `TailwindCSS` • [Repository](#)
 
 ---
 
-> ## ⚡ Tech Stack
->
-> **Frontend**
-> ![React](https://img.shields.io/badge/REACT-087EA4?style=for-the-badge&logo=react&logoColor=white)
-> ![Vite](https://img.shields.io/badge/VITE-B983FF?style=for-the-badge&logo=vite&logoColor=white)
-> ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-2B2D42?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-> ![HTML5](https://img.shields.io/badge/HTML5-E4572E?style=for-the-badge&logo=html5&logoColor=white)
-> ![CSS3](https://img.shields.io/badge/CSS3-2965F1?style=for-the-badge&logo=css3&logoColor=white)
->
-> **Backend**
-> ![Node.js](https://img.shields.io/badge/NODE.JS-3C7A44?style=for-the-badge&logo=node.js&logoColor=white)
-> ![Express](https://img.shields.io/badge/EXPRESS-1B1B1B?style=for-the-badge&logo=express&logoColor=white)
->
-> **Database**
-> ![MongoDB](https://img.shields.io/badge/MONGODB-3FA34D?style=for-the-badge&logo=mongodb&logoColor=white)
->
-> **AI / LLM / Agentic**
-> ![Gemini](https://img.shields.io/badge/GEMINI_AI-7C4DFF?style=for-the-badge&logo=googlegemini&logoColor=white)
-> ![Groq](https://img.shields.io/badge/GROQ_LLAMA-EF5350?style=for-the-badge&logo=groq&logoColor=white)
-> ![RAG](https://img.shields.io/badge/RAG-FF7A45?style=for-the-badge&logo=databricks&logoColor=white)
-> ![LangChain](https://img.shields.io/badge/LANGCHAIN-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-> ![LangGraph](https://img.shields.io/badge/LANGGRAPH-2D6A4F?style=for-the-badge&logo=langgraph&logoColor=white)
-> ![n8n](https://img.shields.io/badge/N8N-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-> ![Make](https://img.shields.io/badge/MAKE.COM-6D00CC?style=for-the-badge&logo=make&logoColor=white)
->
-> **DevOps & Cloud**
-> ![Docker](https://img.shields.io/badge/DOCKER-1D63ED?style=for-the-badge&logo=docker&logoColor=white)
-> ![Kubernetes](https://img.shields.io/badge/KUBERNETES-3060B8?style=for-the-badge&logo=kubernetes&logoColor=white)
-> ![AWS](https://img.shields.io/badge/AWS-FF9E0D?style=for-the-badge&logo=amazonaws&logoColor=white)
-> ![CI/CD](https://img.shields.io/badge/CI%2FCD-2EB67D?style=for-the-badge&logo=githubactions&logoColor=white)
->
-> **Tools & Hosting**
-> ![Git](https://img.shields.io/badge/GIT-E13A29?style=for-the-badge&logo=git&logoColor=white)
-> ![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)
-> ![Render](https://img.shields.io/badge/RENDER-0E1116?style=for-the-badge&logo=render&logoColor=white)
-> ![Vercel](https://img.shields.io/badge/VERCEL-000000?style=for-the-badge&logo=vercel&logoColor=white)
-> ![VS Code](https://img.shields.io/badge/VS_CODE-2C7BC9?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+### 🛠️ Tech Stack
+
+**Languages & Web**  
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+
+**Backend & Database**  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+**AI / LLM / Agentic Systems**  
+![Gemini AI](https://img.shields.io/badge/Gemini_AI-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-Architecture-0052CC?style=flat-square)
+![n8n](https://img.shields.io/badge/n8n-FF6584?style=flat-square&logo=n8n&logoColor=white)
+![Make](https://img.shields.io/badge/Make.com-000000?style=flat-square&logo=make&logoColor=white)
+
+**DevOps & Deployment**  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
 
-> ## 🏆 Achievements
->
-> <div align="center">
->
-> ![Trophies](https://github-profile-trophy.vercel.app/?username=Arvindkumar-star&theme=dark&no-frame=true&column=4&margin-w=8&margin-h=8)
->
-> </div>
->
-> - 🔥 **520-day coding streak** on NxtWave
-> - 🏅 **Coder Badge** earned on NxtWave
-
----
-
-> ## 📊 GitHub Stats
->
-> <div align="center">
->
-> ![Arvind's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arvindkumar-star&show_icons=true&theme=dark&hide_border=true&count_private=true)
->
-> ![GitHub Streak](https://streak-stats.demolab.com/?user=Arvindkumar-star&theme=dark&hide_border=true)
->
-> ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Arvindkumar-star&layout=compact&theme=dark&hide_border=true)
->
-> </div>
-
----
+### 📊 GitHub Activity & Stats
 
 <div align="center">
 
-### 🎯 Currently
-Shipping AI-integrated products end to end · Exploring agentic AI & cloud-native deployment · Open to hackathons & collabs
-
-**Let's build something useful.**
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Arvindkumar-star&theme=dark&hide_border=true)
+![Arvind's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arvindkumar-star&show_icons=true&theme=dark&hide_border=true)
 
 </div>
