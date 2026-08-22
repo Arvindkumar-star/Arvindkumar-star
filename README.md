@@ -166,7 +166,7 @@
     <td align="center" style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 10px; padding: 15px;">
       <h4>🌐 3D Contribution Map</h4>
       <br />
-      <img src="https://github3d.com/api?user=Arvindkumar-star&theme=dark" width="100%" alt="Arvind's 3D Contribution Graph" />
+      <img src="./profile-3d-contrib/profile-night-view.svg" width="100%" alt="Arvind's 3D Contribution Graph" />
     </td>
   </tr>
 </table>
