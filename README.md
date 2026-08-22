@@ -106,6 +106,27 @@
 <table width="100%">
   <tr>
     <td width="50%" valign="top" style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 8px; padding: 12px;">
+      <h4>🤖 Generative AI, LLMs & RAG</h4>
+      <p>
+        <img src="https://img.shields.io/badge/Gen_AI-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
+        <img src="https://img.shields.io/badge/LLM_Apps-0052CC?style=for-the-badge" />
+        <img src="https://img.shields.io/badge/RAG_Systems-FF6F61?style=for-the-badge" />
+        <img src="https://img.shields.io/badge/Vector_Search-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+        <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%" valign="top" style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 8px; padding: 12px;">
+      <h4>⚙️ Agentic AI & Automation Workflows</h4>
+      <p>
+        <img src="https://img.shields.io/badge/AI_Agents-6B5B95?style=for-the-badge" />
+        <img src="https://img.shields.io/badge/Multi--Agent_Systems-D65DB1?style=for-the-badge" />
+        <img src="https://img.shields.io/badge/n8n-FF6584?style=for-the-badge&logo=n8n&logoColor=white" />
+        <img src="https://img.shields.io/badge/Make.com-000000?style=for-the-badge&logo=make&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top" style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 8px; padding: 12px;">
       <h4>💻 Languages & Frontend</h4>
       <p>
         <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
@@ -117,40 +138,17 @@
       </p>
     </td>
     <td width="50%" valign="top" style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 8px; padding: 12px;">
-      <h4>⚙️ Backend & Database</h4>
+      <h4>⚙️ Backend, DevOps & Database</h4>
       <p>
         <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
         <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
         <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-        <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top" style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 8px; padding: 12px;">
-      <h4>🤖 AI, LLMs & Automation</h4>
-      <p>
-        <img src="https://img.shields.io/badge/Gemini_AI-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
-        <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
-        <img src="https://img.shields.io/badge/n8n-FF6584?style=for-the-badge&logo=n8n&logoColor=white" />
-        <img src="https://img.shields.io/badge/Make-000000?style=for-the-badge&logo=make&logoColor=white" />
-      </p>
-    </td>
-    <td width="50%" valign="top" style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 8px; padding: 12px;">
-      <h4>☁️ DevOps & Tools</h4>
-      <p>
         <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-        <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
         <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-        <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-        <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
       </p>
     </td>
   </tr>
 </table>
-
-<br />
-
 ---
 ### 📊 GitHub Activity & Analytics
 
